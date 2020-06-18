@@ -1,5 +1,5 @@
 # Word_Exclusion_Algorithm
-Enter a string and a dictionary (word list). Words will be excluded from the string that lie above the set frequency threshold.
+Enter a string and a dictionary (word list). Words will be excluded from the string that lie above the set frequency threshold as applied to that dictionary.
 
 This is a more methodical way than simply relying on common 'stop word' lists which are frequently too restrictive and reduce machine learning accuracy.
 
